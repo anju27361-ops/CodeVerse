@@ -14,5 +14,9 @@ CodeVerse is a simple developer learning platform UI designed to help users expl
 * CSS
 * JavaScript
 
+  ## Preview
+
+![CodeVerse](Screenshot 2026-03-06 103920.png)
+
 
 
